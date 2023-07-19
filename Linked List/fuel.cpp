@@ -1,6 +1,5 @@
-// UMBC - CMSC 341 - Spring 2023 - Proj1
+
 // Name: Azqa Asad
-// email: azqaa1@umbc.edu
 // File: fuel.h
 
 #include "fuel.h"
