@@ -1,8 +1,7 @@
-// CMSC 341 - Spring 2023 - Project 4
+
 // Author: Azqa Asad
-// Section : 2
 // File: mytest.cpp
-// email: azqaa1@umbc.edu
+
 
 #include "vdetect.h"
 #include <random>
