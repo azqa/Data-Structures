@@ -1,9 +1,7 @@
-// CMSC 341 - Spring 2023 - Project 3
+
 // Author: Azqa Asad
 // File: mytest.cpp
-// email: azqaa1@umbc.edu
-// Section: 2
-// Description: Test file for cqueue.h
+
 
 #include "cqueue.h"
 #include <random>
