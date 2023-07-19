@@ -1,7 +1,7 @@
-// UMBC - CMSC 341 - Spring 2023 - Proj2
+
 // Name : Azqa Asad
 // File : show.h
-// email: azqaa1@umbc.edu
+
 
 #ifndef SHOW_H
 #define SHOW_H
