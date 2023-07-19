@@ -1,4 +1,3 @@
-// CMSC 341 - Spring 2023 - Project 3
 #ifndef CQUEUE_H
 #define CQUEUE_H
 #include <stdexcept>
