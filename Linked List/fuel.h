@@ -1,4 +1,3 @@
-// UMBC - CMSC 341 - Spring 2023 - Proj1
 #ifndef FUEL_H
 #define FUEL_H
 #include <iostream>
