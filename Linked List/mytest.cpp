@@ -1,6 +1,6 @@
 //name: Azqa Asad
 //file: mytest.cpp
-//email: azqaa1@umbc.edu
+
 #include "fuel.h"
 #include <random>
 using namespace std;
