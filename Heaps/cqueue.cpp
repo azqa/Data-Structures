@@ -1,9 +1,7 @@
-// CMSC 341 - Spring 2023 - Project 3
+
 // Author: Azqa Asad
 // File: cqueue.cpp
-// email: azqaa1@umbc.edu
-// Section: 2
-// Description: cpp file for cqueue.h
+
 
 #include "cqueue.h"
 //This is the constructor. It must be provided with a pointer to the prioritization function, 
